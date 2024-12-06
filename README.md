@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wangjialianglsy&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?wangjialianglsy=page.id&left_color=green&right_color=red)
 
 
 - :blush: I am a Java developer.
