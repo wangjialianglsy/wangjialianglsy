@@ -35,7 +35,6 @@
 </picture>
 
 
-https://star-history.com/#wangjialianglsy/wangjialianglsy&Date
 
 
 
